@@ -7,7 +7,9 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 
 
-Answer:I understand software engineering as all engineering means used to conceive, imagine, develop and maintain any software system. Software engineering involves writing code with the help of programming languages by which we can create any kind of software project.
+Answer:
+
+I understand software engineering as all engineering means used to conceive, imagine, develop and maintain any software system. Software engineering involves writing code with the help of programming languages by which we can create any kind of software project.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
