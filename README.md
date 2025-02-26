@@ -15,6 +15,7 @@ I understand software engineering as all engineering means used to conceive, ima
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 Answer:
+
 What helped software engineering to evolve are:
 - The emergence of programming languages
 - Structured programming
@@ -23,13 +24,21 @@ What helped software engineering to evolve are:
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Answer:
-Software Development Life Cycle (SDLC) are steps and phases of the development of a software from its conception to its delivery. Phases to create a software: 
--Requirements:  What are needed for the conception of the software, documentation; to know what is needed to build the software.
+
+Software Development Life Cycle (SDLC) are steps or phases of the development of a software from its conception to its delivery. Phases to create a software: 
+
+-Requirements:  What are needed for the conception of the software,documentation; to know what is needed to build the software.
+
 -Design: define the software architecture and user interface. It is like conceiving the skeleton of the body , to know how the various parts of the body will act.
+
 -Implementation: writing the code and building the software according to the design specifications.
+
 -Testing: here we verify if the software works well.
+
 -Deployment: allowing users and customers to use it.
+
 -Maintenance: ongoing control, updating and support.
+
  All these phases have to be followed.
 
 
@@ -37,22 +46,28 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 Answer:
 
-software developer: responsible for conceiving a software, define its goals and writing the code for that.
--quality insurance engineer: his role is to verify if the software meets it's expectations by conceiving and executing test plans.
+-software developer: responsible for conceiving a software, defining its goals and writing the code for that.
+
+-quality insurance engineer: his role is to verify if the software meets its expectations by conceiving and executing test plans.
+
 -Project manager:  to sum up, he is the main responsible of the software project by overseeing if everything is done correctly from the beginning to the end.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Answer: 
+
 The main difference between these two methodologies is that : 
--waterfall is a sequential meaning a structured approach . Here every phase has to be followed. Best when defining how a company has to be organized.
--agile: is more flexible meaning allowing changes might happen. This is ideal in a situation when changes have to be made.
+
+-waterfall is a sequential , meaning a structured approach . Here every phase has to be followed. Best when defining how a company has to be organized.
+
+-agile: more flexible meaning allowing that changes might happen. This is ideal in a situation when changes have to be made.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Answer:
--IDEs: they are important because with them we can write , debug and test codes with VS Code
--VCs : they are important because by them we can keep track of changes made in a program.
+
+-IDEs: they are important because with them we can write , debug and test codes. E.g: VS Code
+-VCs : they are important because by them we can keep track of changes made within a program.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
@@ -65,12 +80,13 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 Answer:
 
 These testings are important because they help us verify if a software meets well its expectations and is ready to be used.
-#Part 2: Introduction to AI and Prompt Engineering
 
+#Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 Answer:
+
 Prompt engineering is the art of finding the very best , clear and concise questions and/or statements in order for the AI to give the most accurate answers, not vague ones.
 
 
@@ -81,6 +97,6 @@ Answer:
 An example of a vague prompt:
 " Tell me all about depression"
 The way I can improve this prompt:
-"What is depression?.What are the depression 's symptoms? How to get cured from depression?"
+"What is depression?.What are the depression's symptoms? How to get healed from depression?"
 
-I believe with this prompt ,I will get a more accurate response from the AI because I have included the topics I want to know more about. From this prompt for sure I will get the definition or a better understanding of what depression might be, it's symptoms and how to get cured from it.
+I believe with this prompt ,I will get a more accurate response from the AI because I have included the topics I want to know more about. From this prompt for sure I will get the definition or a better understanding of what depression might be, its  symptoms and how to get cured from it.
