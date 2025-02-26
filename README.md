@@ -8,10 +8,9 @@ Explain what software engineering is and discuss its importance in the technolog
 
 
 Answer:I understand software engineering as all engineering means used to conceive, imagine, develop and maintain any software system. Software engineering involves writing code with the help of programming languages by which we can create any kind of software project.
+
+
 Identify and describe at least three key milestones in the evolution of software engineering.
-
-
-List and briefly explain the phases of the Software Development Life Cycle.
 
 Answer:
 What helped software engineering to evolve are:
@@ -19,10 +18,20 @@ What helped software engineering to evolve are:
 - Structured programming
 - Agile methodologies focused on flexibility, response to change and collaboration.
 
+List and briefly explain the phases of the Software Development Life Cycle.
+
+Answer:
+Software Development Life Cycle (SDLC) are steps and phases of the development of a software from its conception to its delivery. Phases to create a software: 
+-Requirements:  What are needed for the conception of the software, documentation; to know what is needed to build the software.
+-Design: define the software architecture and user interface. It is like conceiving the skeleton of the body , to know how the various parts of the body will act.
+
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
