@@ -13,6 +13,11 @@ Identify and describe at least three key milestones in the evolution of software
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+Answer:
+What helped software engineering to evolve are:
+- The emergence of programming languages
+- Structured programming
+- Agile methodologies focused on flexibility, response to change and collaboration.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
