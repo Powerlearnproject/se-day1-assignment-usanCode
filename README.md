@@ -38,6 +38,9 @@ The main difference between these two methodologies is that :
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+Answer:
+-IDEs: they are important because with them we can write , debug and test codes with VS Code
+-VCs : they are important because by them we can keep track of changes made in a program.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
