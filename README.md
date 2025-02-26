@@ -56,7 +56,9 @@ During the development of the software, unforseen changes may occur, the fear of
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+Answer:
 
+These testings are important because they help us verify if a software meets well its expectations and is ready to be used.
 #Part 2: Introduction to AI and Prompt Engineering
 
 
