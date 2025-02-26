@@ -31,8 +31,10 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-
-
+Answer: 
+The main difference between these two methodologies is that : 
+-waterfall is a sequential meaning a structured approach . Here every phase has to be followed. Best when defining how a company has to be organized.
+-agile: is more flexible meaning allowing changes might happen. This is ideal in a situation when changes have to be made.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
