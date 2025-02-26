@@ -39,4 +39,11 @@ Prompt engineering is the art of finding the very best , clear and concise quest
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
+Answer:
 
+An example of a vague prompt:
+" Tell me all about depression"
+The way I can improve this prompt:
+"What is depression?.What are the depression 's symptoms? How to get cured from depression?"
+
+I believe with this prompt ,I will get a more accurate response from the AI because I have included the topics I want to know more about. From this prompt for sure I will get the definition or a better understanding of what depression might be, it's symptoms and how to get cured from it.
