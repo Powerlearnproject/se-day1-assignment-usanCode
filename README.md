@@ -26,6 +26,12 @@ Answer:
 Software Development Life Cycle (SDLC) are steps and phases of the development of a software from its conception to its delivery. Phases to create a software: 
 -Requirements:  What are needed for the conception of the software, documentation; to know what is needed to build the software.
 -Design: define the software architecture and user interface. It is like conceiving the skeleton of the body , to know how the various parts of the body will act.
+-Implementation: writing the code and building the software according to the design specifications.
+-Testing: here we verify if the software works well.
+-Deployment: allowing users and customers to use it.
+-Maintenance: ongoing control, updating and support.
+ All these phases have to be followed.
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
