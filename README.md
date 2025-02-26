@@ -1,4 +1,4 @@
-ok[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18401303&assignment_repo_type=AssignmentRepo)
+nook[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18401303&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -29,7 +29,11 @@ Software Development Life Cycle (SDLC) are steps and phases of the development o
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Answer:
 
+software developer: responsible for conceiving a software, define its goals and writing the code for that.
+-quality insurance engineer: his role is to verify if the software meets it's expectations by conceiving and executing test plans.
+-Project manager:  to sum up, he is the main responsible of the software project by overseeing if everything is done correctly from the beginning to the end.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
